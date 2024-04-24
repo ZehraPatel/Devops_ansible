@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: zeh-token
+pool: zeh
 
 steps:
 - task: Maven@4
