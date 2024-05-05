@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: zehra
+pool:
+  zehra
 steps:
 - task: Maven@4
   inputs:
